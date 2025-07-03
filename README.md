@@ -18,3 +18,5 @@ Vibe coding with Gemma 3
 * pip install -U "triton-windows<3.3"
 * pip install transformers
 * pip install accelerate
+
+![Screenshot](https://raw.githubusercontent.com/maciejszewczyk/google_gemma_3_1b/fd0fbc2a19923488d570f22e517d22484e3d6d59/screenshot.png)
